@@ -1,6 +1,51 @@
-.batman{
-    color: aqua;
+.batman-fondo{
+    background-color: #E6E6E6;
+    text-align: center;
+    height: 180px;
+}
+
+.h1{
+    font-weight: 700px;
+    size: 35px;
+    line-height: 29.64px;
+    text-align: center;
+}
+.cont-1{
+    color: white;
+    height: 200px;
+}
+
+.cont{
+    background-color: white;
+    font-family: Times New Roman;
+    font-weight: 400;
+    size: 15px;
 }
 .titulo{
-    color: blueviolet;
+    color: #005677;
+    font-family: 
+    Times New Roman;
+    background-color: #C4C4C4;
+    font-weight: 700px;
+    size: 20px;
+}
+.pie-pag{
+    background-color: #005677;
+    font-family: 
+    Times New Roman;
+    color: white;
+    text-align: center;
+}
+
+.letra{
+    font-style: italic;
+    font-weight: 700;
+    size: 15px;
+    line-height: 12.7px;
+}
+
+.dos{
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 80px;
 }
